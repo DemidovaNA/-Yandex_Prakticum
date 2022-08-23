@@ -32,3 +32,8 @@
 
 #### Навыки и инструменты использованные в проекте:
 * Python, AQLAlchemy, PostgreSQL, dash, Tableau, продуктовые метрики, построение дашборда.
+
+#### Материалы:
+[Дашборд](https://public.tableau.com/views/Dashboard_Yandex_Zen_16555074175810/sheet5?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+[Презентация](https://disk.yandex.ru/i/AE2om-fviyc9Gw)
