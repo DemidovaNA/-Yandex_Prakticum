@@ -37,5 +37,5 @@
 
 
 
-##### Презентация: 
-https://disk.yandex.ru/i/NUD4-Xy01NMonA
+##### Материалы: 
+[Презентация](https://disk.yandex.ru/i/NUD4-Xy01NMonA)
